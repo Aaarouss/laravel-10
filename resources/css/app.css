@@ -13,3 +13,17 @@
   .plats h4 {
     display: inline-block;
   }
+
+.presentation img {
+  width: 100%;
+  height: 50%;
+}
+
+section {
+  background-color: aquamarine;
+}
+
+.presentation {
+  color: blue;
+  text-align: center;
+}
